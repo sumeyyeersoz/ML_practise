@@ -1,1 +1,3 @@
 # ML_practise
+While businesses and organizations depend on machine learning and predictive analytics to make decisions in today's data-centric society, predictive analytics furthers this by using machine learning and statistical models to forecast future trends and behaviors based on past data (Shmueli and Koppius, 2011).
+The focus is on classification and clustering problems using Python. The objective of the bill_authentication.csv dataset is to distinguish between real banknotes and fake ones based on features characterizing various aspects of banknotes. I will research different machine learning techniques, including decision trees for classification, K-means for clustering, linear regression for predictive analysis.
